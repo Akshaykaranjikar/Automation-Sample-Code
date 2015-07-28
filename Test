@@ -14,7 +14,7 @@ namespace ConsoleApplication2
     {
     static void Main(string[] args)
         {
-         Console.WriteLine("jenkins demo with GitHub");
+         Console.WriteLine("jenkins demo with github integration");
          Console.ReadLine();
         }
     }
